@@ -1,8 +1,7 @@
 # piids
 the hard to find NIDS on Raspberry preinstalled disk image
 
-# Anything here come without any warranty. I'm not responsible for any damage.
-;)
+# Anything here come without any warranty. I'm not responsible for any damage. ;)
 
 What on earth is this weird repo?
 ================================= 
@@ -36,3 +35,6 @@ pi::sdiip
 mysql user&root::sdiip
 
 to open snorby web interface just poin your Raspberry IP addreas in your browser and use this account and pass : snorby@snorby.org::snorby
+
+<img src="https://github.com/ahmadihamid/piids/blob/master/Screenshot%20from%202016-10-25%2008-02-28.png">
+
